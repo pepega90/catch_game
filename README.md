@@ -1,8 +1,8 @@
 # catch_game
 
-<div>
-<img src="https://github.com/pepega90/catch_game/blob/main/preview.gif" />
+<div style="display: flex;">
 <img src="https://github.com/pepega90/catch_game/blob/main/screenshot/1.png" />
+<img src="https://github.com/pepega90/catch_game/blob/main/preview.gif" />
 <div/>
 
 
