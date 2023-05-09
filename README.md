@@ -1,6 +1,9 @@
 # catch_game
 
-<img src="https://github.com/pepega90/catch_game/blob/main/screenshot/1.png" />
+<div>
+<img src="https://github.com/pepega90/catch_game/blob/main/preview.gif" />
+<img src="https://github.com/pepega90/catch_game/blob/main/screenshot/01.png" />
+<div/>
 
 
 ## Getting Started
