@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
 <img src="https://github.com/pepega90/catch_game/blob/main/screenshot/1.png" />
-<img src="https://github.com/pepega90/catch_game/blob/main/preview.gif" />
+<img src="https://github.com/pepega90/catch_game/blob/main/preview.gif" width="100" height="100" />
 <div/>
 
 
